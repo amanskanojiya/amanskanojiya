@@ -67,6 +67,3 @@
 
 
 </p>
-<!--
-<h4 align="center">Let's Connect and Work together!</h4>
--->
