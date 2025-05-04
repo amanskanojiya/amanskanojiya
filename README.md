@@ -48,17 +48,17 @@
 
 <!-- SQL Server Management Studio (SSMS) -->
 <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-  <img src="https://icons8.com/icons/set/sql-server-management-studio" alt="SSMS" width="40" height="40"/>
+  <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/ssms.jpeg" alt="SSMS" width="40" height="40"/>
 </a>
 
 <!-- SQL -->
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="[https://icons8.com/icons/set/sql-logo](https://github.com/kanojiya-aman/kanojiya-aman/blob/main/mongodb.png?raw=true)" alt="SQL" width="40" height="40"/>
+  <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/sql-server.png" alt="SQL" width="40" height="40"/>
 </a>
 
 <!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/postman-icon.png" alt="Postman" width="40" height="40"/>
 </a>
 
 <!-- Azure DevOps -->
