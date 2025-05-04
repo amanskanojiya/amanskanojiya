@@ -38,7 +38,7 @@
 
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="[https://seeklogo.com/images/M/microsoft-net-logo-8A0C3AF5E8-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png)" alt=".NET" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dot-net-icon.png" alt=".NET" width="40" height="40"/>
 </a>
 
 <!-- Dapper -->
