@@ -31,39 +31,43 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- Foundational C# Certification -->
-<a href="https://www.freecodecamp.org/certification/fccfa487ad9-c553-406f-8736-7f044ef9b180/foundational-c-sharp-with-microsoft" target="_blank" rel="noreferrer">
-  <img src="https://imgs.search.brave.com/fwOD7cVO8n0triTpajdEFkNo6wgW4HpsZ9hJDaNlslA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aGRmL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3NrOGsyaGlzdnl2/NTEucG5n" alt="cplusplus" width="40" height="40"/>
+<!-- C# -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="40" height="40"/>
 </a>
 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/kanojiya-aman/kanojiya-aman/blob/main/CSS.png" alt="css3" width="35" height="40"/>
+<!-- .NET -->
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/M/microsoft-net-logo-8A0C3AF5E8-seeklogo.com.png" alt=".NET" width="40" height="40"/>
 </a>
 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<!-- Dapper -->
+<a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
+  <img src="https://icons8.com/icons/set/dapper-orm" alt="Dapper" width="40" height="40"/>
 </a>
 
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/kanojiya-aman/kanojiya-aman/blob/main/HTML.png" alt="html5" width="40" height="40"/>
+<!-- SQL Server Management Studio (SSMS) -->
+<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+  <img src="https://icons8.com/icons/set/sql-server-management-studio" alt="SSMS" width="40" height="40"/>
 </a>
 
-<!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<!-- SQL -->
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <img src="https://icons8.com/icons/set/sql-logo" alt="SQL" width="40" height="40"/>
 </a>
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="40" height="40"/>
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon
+<!-- Azure DevOps -->
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+  <img src="https://icons8.com/icons/set/azure-devops" alt="Azure DevOps" width="40" height="40"/>
+</a>
 
-
+<!-- Visual Studio -->
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://iconlogovector.com/logo/visual-studio" alt="Visual Studio" width="40" height="40"/>
+</a>
 </p>
