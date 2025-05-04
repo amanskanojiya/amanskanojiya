@@ -33,7 +33,7 @@
 <p align="left"> 
 <!-- C# -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="[[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736)" alt="C#" width="40" height="40"](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)/>
+  <img src="https://imgs.search.brave.com/1nI03-rWQjlI0QiFPVPJ3YsCxjm7pLu8eup2ETGNvxM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aGRmL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3NrOGsyaGlzdnl2/NTEucG5n" alt=".NET" width="40" height="40"/>
 </a>
 
 <!-- .NET -->
