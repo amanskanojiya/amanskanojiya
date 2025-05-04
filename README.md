@@ -68,6 +68,6 @@
 
 <!-- Visual Studio -->
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="[https://iconlogovector.com/logo/visual-studio](https://github.com/amanskanojiya/amanskanojiya/blob/main/logo.png)" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/logo.png" alt="Visual Studio" width="40" height="40"/>
 </a>
 </p>
