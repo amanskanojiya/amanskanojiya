@@ -63,23 +63,8 @@
 
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon
 
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<!-- Tailwind CSS -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-
-<!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com/docs/introvideos/basics" target="_blank" rel="noreferrer">
-  <img src="https://github.com/kanojiya-aman/kanojiya-aman/blob/main/VSCode.png" alt="vs code" width="40" height="40"/>
-</a>
 
 </p>
 <!--
