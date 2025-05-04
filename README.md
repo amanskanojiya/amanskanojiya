@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20views&color=0e75b6&style=flat" alt="kanojiya-aman" /> </p>
 
-- I'm a 2nd year MCA student at Vivekanand Education Society's Institute of Technology, Chembur.
+- **Junior Software Developer** @ Macmarts India
+  
+- MCA | VESIT'24
 
-- I’m currently learning : **C#, Dapper, SQL, SSMS, Postman, Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, etc**
-
-- Ask me about : **Java, OOPS and SQL**
+- Technologies I work with: **C#, ASP.NET Core Web API, Dapper, SQL**
 
 - How to reach me : **amanskanojiya@gmail.com**
 
