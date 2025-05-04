@@ -63,7 +63,7 @@
 
 <!-- Azure DevOps -->
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-  <img src="https://icons8.com/icons/set/azure-devops" alt="Azure DevOps" width="40" height="40"/>
+  <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/azure.png" alt="Azure DevOps" width="40" height="40"/>
 </a>
 
 <!-- Visual Studio -->
