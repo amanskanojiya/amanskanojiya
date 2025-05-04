@@ -43,7 +43,7 @@
 
 <!-- Dapper -->
 <a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
-  <img src="https://icons8.com/icons/set/dapper-orm" alt="Dapper" width="40" height="40"/>
+  <img src="[https://icons8.com/icons/set/dapper-orm](https://imgs.search.brave.com/xpey57Jt15YQwy80PgJwcIwKx-Hh34S7v2yKhuZMnIk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MTYxMzM0NS85ZDRl/ZDM4MC1hOGU4LTEx/ZWItOWYyMS1jOGM4/N2IwZjQyNzU)" alt="Dapper" width="40" height="40"/>
 </a>
 
 <!-- SQL Server Management Studio (SSMS) -->
