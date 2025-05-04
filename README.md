@@ -41,16 +41,6 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dot-net-icon.png" alt=".NET" width="40" height="40"/>
 </a>
 
-<!-- Dapper -->
-<a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
-  <img src="[[https://icons8.com/icons/set/dapper-orm](https://imgs.search.brave.com/xpey57Jt15YQwy80PgJwcIwKx-Hh34S7v2yKhuZMnIk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MTYxMzM0NS85ZDRl/ZDM4MC1hOGU4LTEx/ZWItOWYyMS1jOGM4/N2IwZjQyNzU)](https://api.nuget.org/v3-flatcontainer/dapper/2.1.66/icon)" alt="Dapper" width="40" height="40"/>
-</a>
-
-<!-- SQL Server Management Studio (SSMS) -->
-<a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-  <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/ssms.jpeg" alt="SSMS" width="40" height="40"/>
-</a>
-
 <!-- SQL -->
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
   <img src="https://github.com/amanskanojiya/amanskanojiya/blob/main/sql-server.png" alt="SQL" width="40" height="40"/>
